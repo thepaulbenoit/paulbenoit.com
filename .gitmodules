@@ -1,0 +1,15 @@
+[submodule "hugo-lodi-theme"]
+	path = hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-lodi-theme"]
+	path = themes/hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa.git
