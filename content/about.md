@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-08-19T15:00:48-06:00
-draft: true
+draft: false
 ---
 
 [resume](/paul_benoit_resume.pdf)
