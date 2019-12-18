@@ -1,10 +1,5 @@
 ## Basic Configuration
 
-## old NS lookup servers
-## ns13.domaincontrol.com
-## ns14.domaincontrol.com
-
-
 #baseurl = "test.com"
 builddrafts = false
 canonifyurls = false
