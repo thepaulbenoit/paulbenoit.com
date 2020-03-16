@@ -56,8 +56,3 @@ socialmarkup = true
     identifier = "resume"
     weight = 200
     url = "/paul_benoit_resume.pdf"
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
