@@ -8,9 +8,6 @@ pygmentsUseClasses = true
 
 googleAnalytics = "UA-167697355-1"
 
-[Social]
-  twitter = "thepaulbenoit"
-
 [menu]
   [[menu.main]]
     identifier = "resume"
