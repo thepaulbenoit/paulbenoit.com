@@ -1,58 +1,28 @@
-## Basic Configuration
-
-#baseurl = "test.com"
-builddrafts = false
-canonifyurls = false
-languageCode = "en-US"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-author = "Paul Benoit"
+baseURL = "http://example.org/"
+languageCode = "en-us"
 title = "Paul Benoit"
+theme = "mytheme"
+relativeURLs = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
-theme = "hugo-goa"
+googleAnalytics = "UA-167697355-1"
 
-## Hugo Built-in Features
-#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-#googleAnalytics = "XYZ"
-enableRobotsTXT = true
+[Social]
+  twitter = "thepaulbenoit"
 
-## Site Settings
-[params]
-author = "Paul Benoit"
-intro = "Security & Development"
-description = "Currently making DFIR tools for The Crypsis Group."
-authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
-
-## Site Meta Settings
-[params.meta]
-description = "Cyber Paul Benoit"
-keywords = "benoit,paul,security,cyber,developer"
-
-## Social Accounts
-[params.social]
-github = "thepaulbenoit"
-linkedin = "paulbenoitsecurity"
-email = "benoitpaul6@gmail.com"
-
-## Extras
-[params.extra]
-copyright = "© 2019. Paul Benoit. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = false
-highlightjs = true
-socialmarkup = true
-
-## Main Menu
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "resume"
+[menu]
+  [[menu.main]]
     identifier = "resume"
-    weight = 200
+    name = "Resume"
     url = "/paul_benoit_resume.pdf"
+    weight = 100
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 120
+
+
+    
