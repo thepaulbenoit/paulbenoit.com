@@ -1,6 +1,6 @@
 ---
 title: "How to Migrate from AWS S3 to DigitalOcean Spaces in Rails 6"
-date: 2020-10-04T00:00:00-00:00
+date: 2020-10-03T00:00:00-00:00
 draft: false
 ---
 
@@ -46,7 +46,7 @@ The `access_key_id` and `secret_access_key` are what you generated in the previo
 `endpoint` is from the URL of your Space. You can find it under the title of your Space if you remove the project. Include `https://` in the config field.  
 `region` can also be found in the URL of your Space.  
 `bucket` is the name of your Space.  
-![DigitalOcean Spaces Screenshot](/img/spaces-endpoint.png)
+![DigitalOcean Spaces Screenshot](/img/blog/spaces-endpoint.png)
   
 If you look closely, you can see a single space character before `aws:` and before `digitalocean:`. That space cost me an hour of my life. I'm not bitter.
 &nbsp;  
