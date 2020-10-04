@@ -17,7 +17,7 @@ Write these keys down and save them for later.
 ### Edit Rails Credentials
 
 Next, we need to add the DigitalOcean Spaces API keys and credentials to Rails. Using Rails Credentials (link rails docs here) is a secure way to manage them in Rails 6.  
-In your rails project directory, type `rails crededentials:edit`  
+In your rails project directory, type `rails credentials:edit`  
 You will see something like this if you've been using Rails Credentials with AWS already:  
 
 ``` yaml
