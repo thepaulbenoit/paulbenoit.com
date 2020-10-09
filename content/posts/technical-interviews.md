@@ -4,7 +4,7 @@ date: 2020-10-04T00:00:00-00:00
 draft: false
 ---
 
-This is a cross-post from the [Security Goose Blog](https://securitygoose.com/blog/). Security Goose is a web application I created for screening cyber security job candidates with online technical assessments. I work on it in my free time.  
+This is a cross-post from the [Security Goose Blog](https://securitygoose.com/blog/). Security Goose is a web application I created for screening cyber security job candidates with online technical assessments. It currently has 0 users. I work on it in my free time.  
 &nbsp;  
 &nbsp;  
 
