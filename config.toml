@@ -1,6 +1,6 @@
 baseURL = "https://paulbenoit.com/"
 languageCode = "en-us"
-title = "Cyber Security, Software, and Other Things | Paul Benoit"
+title = "Paul Benoit | Cyber Security, Software, and Other Things"
 theme = "mytheme"
 relativeURLs = true
 pygmentsCodeFences = true
