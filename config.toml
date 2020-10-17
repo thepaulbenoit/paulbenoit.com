@@ -1,6 +1,6 @@
 baseURL = "https://paulbenoit.com/"
 languageCode = "en-us"
-title = "Paul Benoit"
+title = "Cyber Security, Software, and Other Things | Paul Benoit"
 theme = "mytheme"
 relativeURLs = true
 pygmentsCodeFences = true
@@ -16,10 +16,13 @@ googleAnalytics = "UA-167697355-1"
     weight = 100
 
   [[menu.main]]
+    identifier = "bookshelf"
+    name = "Bookshelf"
+    url = "/bookshelf"
+    weight = 120
+
+  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
     weight = 120
-
-
-    
