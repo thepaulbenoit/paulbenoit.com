@@ -22,5 +22,5 @@ The Lord of the Rings - J. R. R. Tolkien
 
 [Do things that Don't Scale - Paul Graham](http://paulgraham.com/ds.html)  
 [The Day You Became a Better Writer - Scott Adams](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)  
-[The Tail End - Tim Urban](https://waitbutwhy.com/2015/12/the-tail-end.html)  
 [The Opportunity Cost of Working Hard - Tynan](https://tynan.com/cost)  
+[The Tail End - Tim Urban](https://waitbutwhy.com/2015/12/the-tail-end.html)  
