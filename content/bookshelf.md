@@ -13,6 +13,8 @@ Antifragile - Nassim Nicholas Taleb
 Fooled by Randomness - Nassim Nicholas Taleb  
 Genghis Khan and the Making of the Modern World - Jack Weatherford  
 Sapiens - Yuval Noah Harari  
+The Lean Startup - Eric Ries  
+The Sovereign Individual - James Dale Davidson and William Rees-Mogg  
 
 ### Fiction
 
