@@ -9,7 +9,8 @@ DigitalOcean Spaces is a convenient way to store files that might be cheaper tha
 ### Generate Spaces API Keys
 
 The first step is to generate DigitalOcean Spaces API keys to use in your Rails 6 app. In DigitalOcean, click on `API` in the left pane, then click `Generate New Key` next to "Spaces access keys"  
-*photo here*  
+![DigitalOcean Spaces Screenshot2](/img/blog/spaces1.png)
+  
 Write these keys down and save them for later.
 &nbsp;  
 &nbsp;  
