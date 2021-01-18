@@ -13,12 +13,18 @@ googleAnalytics = "UA-167697355-1"
     identifier = "resume"
     name = "Resume"
     url = "https://paul-benoit-public.s3.amazonaws.com/paul_benoit_resume.pdf"
-    weight = 100
+    weight = 120
 
   [[menu.main]]
     identifier = "bookshelf"
     name = "Bookshelf"
     url = "/bookshelf"
+    weight = 120
+
+  [[menu.main]]
+    identifier = "uses"
+    name = "Uses"
+    url = "/uses"
     weight = 120
 
   [[menu.main]]
