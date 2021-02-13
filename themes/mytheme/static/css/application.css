@@ -4,18 +4,16 @@
   font-family: 'Work Sans', sans-serif;
  }
 
-.test {
-  color: green;
-}
-
-.ig {
-  display: grid;
-  justify-content: space-between;
-  grid-gap: 3vmin;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
 img {
   display: block;
   max-width: 100%;
+}
+
+.email-signup {
+  padding: 8px;
+}
+
+.email-box {
+  height: 38px;
+  width: 150px;
 }
