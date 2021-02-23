@@ -23,3 +23,7 @@ Logitech MX Master Mouse
 [Image Optim](https://imageoptim.com/mac)  
 [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer)  
 [Dropbox](https://www.dropbox.com)  
+
+### Misc
+
+[Anki](https://apps.ankiweb.net)

@@ -6,7 +6,6 @@ relativeURLs = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
-googleAnalytics = "UA-167697355-1"
 
 [menu]
   [[menu.main]]
