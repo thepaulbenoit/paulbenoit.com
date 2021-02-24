@@ -3,9 +3,7 @@ title: "Paul's Re-Reading List"
 ---
 
 &nbsp;  
-Many times you can't absorb all the useful information in good books with one read.
-
-This is a list of things that I believe are worth re-reading.  
+Here is a list of things that I believe are worth re-reading.  
 
 ### Nonfiction
 
