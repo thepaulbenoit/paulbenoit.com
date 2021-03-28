@@ -8,7 +8,6 @@ Here is a list of things that I believe are worth re-reading.
 ### Nonfiction
 
 Antifragile - Nassim Nicholas Taleb  
-Fooled by Randomness - Nassim Nicholas Taleb  
 Genghis Khan and the Making of the Modern World - Jack Weatherford  
 Sapiens - Yuval Noah Harari  
 The Lean Startup - Eric Ries  
