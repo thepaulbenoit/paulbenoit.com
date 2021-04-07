@@ -26,7 +26,7 @@ The Lord of the Rings - J. R. R. Tolkien
 [The Day You Became a Better Writer - Scott Adams](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)  
 [The Opportunity Cost of Working Hard - Tynan](https://tynan.com/cost)  
 [The Tail End - Tim Urban](https://waitbutwhy.com/2015/12/the-tail-end.html)  
-[Why Software is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)  
+[Why Software is Eating the World - Marc Andreessen](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)  
 
 ## Other
 
